@@ -10,11 +10,11 @@
 | Working with events | Various exercises focusing on events | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt4" target="_blank">Repo</a> |
 | Comparing input value to array | Loop through array values, compare them with input value and display different messages for each match | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt5" target="_blank">Repo</a> |
 | Using random values | Various tasks involving Math.random() | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt6" target="_blank">Repo</a> |
-| 7 | tbd | tbd |
-| 8 | tbd | tbd |
-| 9 | tbd | tbd |
-| 10 | tbd | tbd |
-| 11 | tbd | tbd |
-| 12 | tbd | tbd |
+| Tic Tac Toe game | Simple version of tic tac toe | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt7" target="_blank">Repo</a> |
+| Typewriter effect | Simple typewriter effect script with use of setTimeout and setInterval | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt8" target="_blank">Repo</a> |
+| Image slider with keyboard navigation | Simple slider which allows user to navigate it using keyboard arrows |<a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt9" target="_blank">Repo</a>  |
+| Closures | Closures explained on a counter example | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt10" target="_blank">Repo</a> |
+| Using Date object | Different clocks and timers using the Date object | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt11" target="_blank">Repo</a> |
+| Todo list | Basic todo list example | <a href="https://github.com/dnksebastian/projekty-js/tree/main/Projekt12" target="_blank">Repo</a> |
 
 </div>
